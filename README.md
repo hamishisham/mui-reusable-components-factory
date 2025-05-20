@@ -4,11 +4,6 @@ This project contains a set of reusable React components built using Material-UI
 
 ---
 
-## 🚀 Live Demo
-
-[Check out the live app here]([https://mui-reusable-components-factory.vercel.app/])
-
----
 
 ## 📦 Included Components
 
